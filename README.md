@@ -4,7 +4,7 @@ Used Car Market: Interactive Business Intelligence Dashboard
 This project focuses on the "Visual Analytics" stage of the data pipeline. Building upon the cleaned dataset from my [Used Car Analysis (Python) project]([(https://github.com/mahima-122/Used-Car-Market-Data-Analysis)]), this dashboard transforms raw metrics into an interactive, high-level business intelligence tool.
 
 ## Tech Stack
-- **Tool:** Power BI Desktop
+- **Tool:** Power BI Desktop, Jupyter notebook, Python(Pandas)
 - **Data Source:** Cleaned Used Car dataset (Pre-processed via Pandas)
 - **Visualization:** Bar Charts, Donut Charts, Trend Analysis, and Interactive Slicers
 
